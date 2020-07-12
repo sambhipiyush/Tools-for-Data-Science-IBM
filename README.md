@@ -21,7 +21,7 @@ What are some of the most popular data science tools, how do you use them, and w
     * Give examples of popular tools used by data scientists
     * Discover IBM tools focused on data science
 
-##### This week, you will get an overview of the programming languages commonly used, including Python, R, Scala, and SQL. You’ll be introduced to the open source and commercial data science tools available. You’ll also learn about the packages, APIs, data sets and models frequently used by data scientists
+#### This week, you will get an overview of the programming languages commonly used, including Python, R, Scala, and SQL. You’ll be introduced to the open source and commercial data science tools available. You’ll also learn about the packages, APIs, data sets and models frequently used by data scientists
 
 **Graded:** Quiz
 
@@ -34,7 +34,7 @@ What are some of the most popular data science tools, how do you use them, and w
     * Describe the features of Jupyter Notebook that make it popular for data science projects
     * Describe the features of RStudio IDE that make it popular for data science projects
 
-##### This week, you will learn about three popular tools used in data science: GitHub, Jupyter Notebooks, and RStudio IDE. You will become familiar with the features of each tool, and what makes these tools so popular among data scientists today
+#### This week, you will learn about three popular tools used in data science: GitHub, Jupyter Notebooks, and RStudio IDE. You will become familiar with the features of each tool, and what makes these tools so popular among data scientists today
 
 **Graded:** Quiz
 
@@ -46,7 +46,7 @@ What are some of the most popular data science tools, how do you use them, and w
     * Explain how IBM Watson Studio can be used by data scientists
     * Describe other IBM data science tools
 
-##### This week, you will learn about an enterprise-ready data science platform by IBM, called Watson Studio. You'll learn about some of the features and capabilities of what data scientists use in the industry. You’ll also learn about other IBM tools used to support data science projects, such as IBM Watson Knowledge Catalog, Data Refinery, and the SPSS Modeler
+#### This week, you will learn about an enterprise-ready data science platform by IBM, called Watson Studio. You'll learn about some of the features and capabilities of what data scientists use in the industry. You’ll also learn about other IBM tools used to support data science projects, such as IBM Watson Knowledge Catalog, Data Refinery, and the SPSS Modeler
 
 **Graded:** Quiz
 
@@ -59,7 +59,7 @@ What are some of the most popular data science tools, how do you use them, and w
     * Configure content in the Notebook
     * Share the Notebook for peer review
 
-##### This week, you will demonstrate your skills by creating and configuring a Jupyter Notebook. As part of your grade for this course, you will share your Jupyter Notebook with your peers for review
+#### This week, you will demonstrate your skills by creating and configuring a Jupyter Notebook. As part of your grade for this course, you will share your Jupyter Notebook with your peers for review
 
 **Graded:** Create and Share Your Jupyter Notebook
 
