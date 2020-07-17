@@ -1,0 +1,5 @@
+Other Important Reading Sources
+
+https://www.kaggle.com/lalitharajesh/iris-dataset-exploratory-data-analysis
+https://nbviewer.jupyter.org/
+https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
