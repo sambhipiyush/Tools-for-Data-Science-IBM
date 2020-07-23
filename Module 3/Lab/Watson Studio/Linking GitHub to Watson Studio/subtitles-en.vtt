@@ -1,0 +1,213 @@
+WEBVTT
+
+1
+00:00:01.990 --> 00:00:08.970
+[Music]
+
+2
+00:00:06.350 --> 00:00:11.700
+this video shows you how to connect your
+
+3
+00:00:08.970 --> 00:00:15.660
+IBM Watson studio account with your
+
+4
+00:00:11.700 --> 00:00:19.020
+github account in Watson studio navigate
+
+5
+00:00:15.660 --> 00:00:21.630
+to your profile settings on the
+
+6
+00:00:19.020 --> 00:00:24.710
+integrations tab visit the link to
+
+7
+00:00:21.630 --> 00:00:27.300
+generate a github personal access token
+
+8
+00:00:24.710 --> 00:00:30.840
+provide a descriptive name for the token
+
+9
+00:00:27.300 --> 00:00:37.079
+and select the repo scope
+
+10
+00:00:30.840 --> 00:00:38.850
+then generate the token copy the token
+
+11
+00:00:37.079 --> 00:00:42.540
+return to the github integration
+
+12
+00:00:38.850 --> 00:00:44.670
+settings and paste the token the token
+
+13
+00:00:42.540 --> 00:00:48.720
+is validated when you save it to your
+
+14
+00:00:44.670 --> 00:00:51.600
+profile settings now navigate to your
+
+15
+00:00:48.720 --> 00:00:54.920
+projects you enable github integration
+
+16
+00:00:51.600 --> 00:00:57.780
+at the project level on the settings tab
+
+17
+00:00:54.920 --> 00:01:01.230
+simply scroll to the bottom and paste
+
+18
+00:00:57.780 --> 00:01:05.750
+the existing github repository URL once
+
+19
+00:01:01.230 --> 00:01:05.750
+the URL is validated click connect
+
+20
+00:01:06.270 --> 00:01:13.009
+go to the assets tab and open the
+
+21
+00:01:09.570 --> 00:01:13.009
+notebook you want to publish
+
+22
+00:01:14.100 --> 00:01:18.689
+notice that this notebook has the
+
+23
+00:01:16.200 --> 00:01:20.430
+credentials replaced with X's it's a
+
+24
+00:01:18.689 --> 00:01:22.950
+best practice to remove or replace
+
+25
+00:01:20.430 --> 00:01:27.400
+credentials before publishing to github
+
+26
+00:01:22.950 --> 00:01:29.710
+so this notebook is ready for publishing
+
+27
+00:01:27.400 --> 00:01:32.320
+you can provide the target path along
+
+28
+00:01:29.710 --> 00:01:34.570
+with a commit message you also have the
+
+29
+00:01:32.320 --> 00:01:36.970
+option to publish content without hidden
+
+30
+00:01:34.570 --> 00:01:39.010
+code which means that any cells in the
+
+31
+00:01:36.970 --> 00:01:41.950
+notebook that began with the hidden cell
+
+32
+00:01:39.010 --> 00:01:45.340
+comment will not be published when
+
+33
+00:01:41.950 --> 00:01:46.960
+you're ready click publish the message
+
+34
+00:01:45.340 --> 00:01:47.680
+tells you that the notebook was
+
+35
+00:01:46.960 --> 00:01:50.260
+published
+
+36
+00:01:47.680 --> 00:01:53.070
+successfully and provides links to the
+
+37
+00:01:50.260 --> 00:01:56.380
+notebook the repository in the commit
+
+38
+00:01:53.070 --> 00:01:58.870
+let's take a look at the commits so
+
+39
+00:01:56.380 --> 00:02:01.000
+there's the commit and you can navigate
+
+40
+00:01:58.870 --> 00:02:03.420
+to the repository to see the publish
+
+41
+00:02:01.000 --> 00:02:03.420
+notebook
+
+42
+00:02:03.760 --> 00:02:09.160
+lastly you can publish as a gist just
+
+43
+00:02:07.000 --> 00:02:12.940
+are another way to share your work on
+
+44
+00:02:09.160 --> 00:02:15.310
+github every gist is a git repository so
+
+45
+00:02:12.940 --> 00:02:18.160
+it can be forked and cloned there are
+
+46
+00:02:15.310 --> 00:02:21.190
+two types of gists public and secret if
+
+47
+00:02:18.160 --> 00:02:23.440
+you start out with a secret gist you can
+
+48
+00:02:21.190 --> 00:02:25.630
+convert it to a public gist later and
+
+49
+00:02:23.440 --> 00:02:27.830
+again you have the option to remove
+
+50
+00:02:25.630 --> 00:02:30.410
+hidden cells
+
+51
+00:02:27.830 --> 00:02:32.530
+so that's the basics of Watson Studios
+
+52
+00:02:30.410 --> 00:02:36.800
+github integration
+
+53
+00:02:32.530 --> 00:02:36.800
+[Music]
